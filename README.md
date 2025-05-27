@@ -22,6 +22,11 @@
   
   **ram**: 2gb 667Mhz
 
+### Phone:
+ **model**: Tecno LH7n
+
+ **firmware**: stock
+
 ## My main repos:
 [catfetch-ts](https://github.com/tasory/catfetch-ts) - **fetch written on bash**
 
