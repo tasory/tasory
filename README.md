@@ -14,6 +14,6 @@
 **hnk1337** - [github](https://github.com/1Hnk1)
 
 ## Funny badges :3 
-![image](https://crinelam.neocities.org/images/stamps/milk2.png) ![image](https://crinelam.neocities.org/images/stamps/milk.png) 
+![image](https://jack-dawlia.neocities.org/image/gif/azumanga-intro-stamp.gif) ![image](https://crinelam.neocities.org/images/stamps/milk2.png) ![image](https://crinelam.neocities.org/images/stamps/milk.png) ![image](https://jack-dawlia.neocities.org/image/penis.png)
 
 ![image](https://crinelam.neocities.org/images/buttons/spam%20ton.gif) ![image](https://jack-dawlia.neocities.org/image/oh-my-gah-button.gif)
