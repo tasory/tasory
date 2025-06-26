@@ -12,3 +12,6 @@
  **puhnastyy61** - [github](https://github.com/PUHNASTYY61) [site](https://puhnastyy61.github.io/)
 
 **hnk1337** - [github](https://github.com/1Hnk1)
+
+## Funny badges :3 
+![image](https://crinelam.neocities.org/images/stamps/milk2.png) ![image](https://crinelam.neocities.org/images/stamps/milk.png) ![image](https://crinelam.neocities.org/images/buttons/spam%20ton.gif) ![image](https://jack-dawlia.neocities.org/image/oh-my-gah-button.gif)
