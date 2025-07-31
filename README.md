@@ -9,7 +9,7 @@
 [wallpaper](https://github.com/tasory/wallpaper) - **my wallpaper collection**
 
 ## My best friends ^o^
- **puhnastyy61** - [github](https://github.com/PUHNASTYY61) [site](https://puhnastyy61.github.io/)
+ **puhnastyy61** - [github](https://github.com/PUHNASTY61) [site](https://puhnasty61.github.io/)
 
 **hnk1337** - [github](https://github.com/1Hnk1)
 
