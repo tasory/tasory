@@ -6,6 +6,8 @@
 ## My main repos:
 [catfetch-ts](https://github.com/tasory/catfetch-ts) - **fetch written on bash**
 
+[not-a-catfetch](https://github.com/tasory/not-a-catfetch) - **good fork of catfetch-ts**
+
 [wallpaper](https://github.com/tasory/wallpaper) - **my wallpaper collection**
 
 ## My best friends ^o^
@@ -16,4 +18,4 @@
 ## Funny badges :3 
 ![image](https://jack-dawlia.neocities.org/image/gif/azumanga-intro-stamp.gif) ![image](https://crinelam.neocities.org/images/stamps/milk2.png) ![image](https://crinelam.neocities.org/images/stamps/milk.png) ![image](https://jack-dawlia.neocities.org/image/penis.png)
 
-![image](https://jack-dawlia.neocities.org/image/oh-my-gah-button.gif) ![image](https://jack-dawlia.neocities.org/image/adhd-haver.gif) ![image](https://crinelam.neocities.org/images/buttons/spam%20ton.gif) ![image](https://jack-dawlia.neocities.org/image/staying-silly-blinkie.gif)
+![image](https://jack-dawlia.neocities.org/image/oh-my-gah-button.gif) ![image](https://jack-dawlia.neocities.org/image/adhd-haver.gif) ![image](https://crinelam.neocities.org/images/buttons/spam%20ton.gif) ![image](https://88by31.neocities.org/web/linux_powered.gif)
