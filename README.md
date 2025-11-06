@@ -10,8 +10,10 @@
 
 [wallpaper](https://github.com/tasory/wallpaper) - **my wallpaper collection**
 
+[[tasory.github.io]](https://github.com/tasory/tasory.github.io) - **my personal website!**
+
 ## My best friends ^o^
- **puhnastyy61** - [github](https://github.com/PUHNASTY61) 
+**puhnastyy61** - [github](https://github.com/PUHNASTY61) 
 
 **hnk1337** - [github](https://github.com/1Hnk1)
 
